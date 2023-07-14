@@ -1,0 +1,31 @@
+.row h1{
+    font-size:48px;
+    opacity: 1;
+  }
+  
+  #login-form{
+    margin-top:80px;
+    background-color:rgb(256, 256, 256);
+    width: 400px;
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+  }
+  #login-form label{
+    
+          width:100px;
+          display: inline-block;
+      }
+      #login-form div{
+  
+  
+  padding:10px;
+  width: 400px;
+      }
+      #login-form button{
+          
+          /* background-color:green; */
+          color:white;
+      }
+      #login-form button:hover{
+          /* background-color:green; */
+          color:purple;
+      }

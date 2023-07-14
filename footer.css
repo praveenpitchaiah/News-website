@@ -1,0 +1,19 @@
+footer{
+    background:rgb(28,27,24);
+    color:#fff;
+
+}
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+.fa:hover {
+    opacity: 0.7;
+}
+.fa{
+    color:white;
+}
